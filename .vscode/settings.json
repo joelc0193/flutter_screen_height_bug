@@ -1,0 +1,7 @@
+{
+  "editor.fontSize": 13,
+  "scm.inputFontSize": 15,
+  "interactiveSession.editor.fontSize": 15,
+  "window.zoomLevel": 0.5,
+  "dart.flutterSdkPath": ".fvm/versions/3.10.6"
+}
